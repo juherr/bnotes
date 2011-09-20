@@ -5,6 +5,8 @@ ChangeLog
 							[!] 		- Important warning or note
 							{<component>}	- Component/Group that changed
 
+1.6.0	{lib}		[+] Removed BNMQ subproject. If you looking RPC based good solution look at another LatestBit project - SmartObjects.
+-
 1.5.3	{lib}		[+] BinaryNotes.NET migrated to MSVC10
 1.5.3	{all}		[!] Migrated to Apache License v2
 -
