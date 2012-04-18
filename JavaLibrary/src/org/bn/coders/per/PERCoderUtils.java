@@ -61,7 +61,8 @@ public class PERCoderUtils {
         boolean is7Bit = 
             ( 
                 stringType == UniversalTag.PrintableString || 
-                stringType ==UniversalTag.VisibleString
+                stringType == UniversalTag.VisibleString   ||
+	        stringType == UniversalTag.IA5String
             )
             ;
         return is7Bit;

@@ -383,4 +383,6 @@ EXPORTS TestOCT,TestPRN,TestI32,TestI16,TestI8,ContentType,ValueWithParams,Param
 	Set7 ::= [APPLICATION 90] IMPLICIT SET {
 		set6 Set6
 	}
+
+	BBSQ ::= SEQUENCE SIZE (1..1000) OF TestSeqV13
 END

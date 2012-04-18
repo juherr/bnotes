@@ -5,6 +5,7 @@ ChangeLog
 							[!] 		- Important warning or note
 							{<component>}	- Component/Group that changed
 
+1.6.0	{lib}		[+] IA5String now is support as 7 bit encoded string for PER
 1.6.0	{lib}		[+] Removed obsolete BNMQ subproject. If you looking RPC based good solution look at another LatestBit project - SmartObjects.
 -
 1.5.3	{lib}		[+] BinaryNotes.NET migrated to MSVC10
